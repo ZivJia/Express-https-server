@@ -29,7 +29,7 @@ var server = https.createServer({
       cert: fs.readFileSync('ssl/server.crt')
     }, app)
     .listen(port, function () {
-      console.log('Example app listening on port 4443! Go to https://localhost:4443/')
+      console.log('Example app listening on port 443! Go to https://localhost:443/')
     });
 
 /**

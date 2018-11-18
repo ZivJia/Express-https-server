@@ -22,6 +22,6 @@ keyUsage = nonRepudiation, digitalSignature, keyEncipherment
 subjectAltName = @alt_names
 
 [alt_names]
-DNS.1 = 192.168.0.5
+DNS.1 = 10.148.6.152
 DNS.2 = socialmatric.com
-IP.1 = 192.168.0.5
+IP.1 = 10.148.6.152
